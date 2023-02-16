@@ -1,0 +1,937 @@
+{
+  "annotations": [
+    {
+      "image_id": "12433",
+      "id": "1",
+      "caption": "Six sharks swimming on the bottom of the sea"
+    },
+    {
+      "image_id": "12445",
+      "id": "2",
+      "caption": "A group of sharks resting on the bottom of the sea"
+    },
+    {
+      "image_id": "12900",
+      "id": "3",
+      "caption": "A grey shark is swimming"
+    },
+    {
+      "image_id": "15001",
+      "id": "4",
+      "caption": "Diver's hand holding wooden stick"
+    },
+    {
+      "image_id": "15003",
+      "id": "5",
+      "caption": "The diver installs the camera underwater"
+    },
+    {
+      "image_id": "15045",
+      "id": "6",
+      "caption": "A probe rod detects underwater"
+    },
+    {
+      "image_id": "15094",
+      "id": "7",
+      "caption": "The detection instrument rests on the reef"
+    },
+    {
+      "image_id": "15113",
+      "id": "8",
+      "caption": "Diver is fishing"
+    },
+    {
+      "image_id": "15136",
+      "id": "9",
+      "caption": "Caught a shrimp in a blue gloved hand"
+    },
+    {
+      "image_id": "15418",
+      "id": "10",
+      "caption": "The diver found a turtle at the bottom of the water"
+    },
+    {
+      "image_id": "15426",
+      "id": "11",
+      "caption": "Holding a white object in a black gloved hand"
+    },
+    {
+      "image_id": "15544",
+      "id": "12",
+      "caption": "The diver found a dollar under the water"
+    },
+    {
+      "image_id": "15704",
+      "id": "13",
+      "caption": "The diver is holding the probe to explore the seabed"
+    },
+    {
+      "image_id": "929",
+      "id": "14",
+      "caption": "Two divers under the sea"
+    },
+    {
+      "image_id": "928",
+      "id": "15",
+      "caption": "A man is diving"
+    },
+    {
+      "image_id": "8288",
+      "id": "16",
+      "caption": "There is a diver under the sea"
+    },
+    {
+      "image_id": "8262",
+      "id": "17",
+      "caption": "There are divers under the sea"
+    },
+    {
+      "image_id": "8056",
+      "id": "18",
+      "caption": "Top view of the surface of the seabed"
+    },
+    {
+      "image_id": "8046",
+      "id": "19",
+      "caption": "There are divers under the sea"
+    },
+    {
+      "image_id": "8010",
+      "id": "20",
+      "caption": "There are two divers on the right side of the coral reef"
+    },
+    {
+      "image_id": "7916",
+      "id": "21",
+      "caption": "A group of divers playing on the bottom of the sea"
+    },
+    {
+      "image_id": "7654",
+      "id": "22",
+      "caption": "There is a whitebait beside the coral"
+    },
+    {
+      "image_id": "7643",
+      "id": "23",
+      "caption": "A diver kneeling on the bottom of the sea"
+    },
+    {
+      "image_id": "7027",
+      "id": "24",
+      "caption": "A diver on the bottom of the sea swims towards the front"
+    },
+    {
+      "image_id": "6872",
+      "id": "25",
+      "caption": "There is a diver under the sea"
+    },
+    {
+      "image_id": "6820",
+      "id": "26",
+      "caption": "There is a group of divers under the sea"
+    },
+    {
+      "image_id": "6788",
+      "id": "27",
+      "caption": "The seabed is overgrown with coral reefs"
+    },
+    {
+      "image_id": "6082",
+      "id": "28",
+      "caption": "A diver stands on his knees on the bottom of the sea"
+    },
+    {
+      "image_id": "6062",
+      "id": "29",
+      "caption": "There is a diver behind the yellow bag"
+    },
+    {
+      "image_id": "5830",
+      "id": "30",
+      "caption": "A male diver exploring the sea bottom"
+    },
+    {
+      "image_id": "5818",
+      "id": "31",
+      "caption": "There are two divers under the sea"
+    },
+    {
+      "image_id": "5554",
+      "id": "32",
+      "caption": "A diver posing on the bottom of the sea"
+    },
+    {
+      "image_id": "4070",
+      "id": "33",
+      "caption": "There is a group of sharks under the sea"
+    },
+    {
+      "image_id": "3947",
+      "id": "34",
+      "caption": "A diver among a group of sharks"
+    },
+    {
+      "image_id": "3925",
+      "id": "35",
+      "caption": "There is a group of sharks under the sea"
+    },
+    {
+      "image_id": "3728",
+      "id": "36",
+      "caption": "There is an octopus on the coral reef"
+    },
+    {
+      "image_id": "3650",
+      "id": "37",
+      "caption": "There are a few octopus fish above the seabed reef"
+    },
+    {
+      "image_id": "3330",
+      "id": "38",
+      "caption": "A group of small fish shuttles between the coral reefs"
+    },
+    {
+      "image_id": "3202",
+      "id": "39",
+      "caption": "A group of small black and white fish swim over the coral bushes"
+    },
+    {
+      "image_id": "3196",
+      "id": "40",
+      "caption": "There is a school of small fish among the corals"
+    },
+    {
+      "image_id": "3015",
+      "id": "41",
+      "caption": "There is a pile of coral reefs under the sea"
+    },
+    {
+      "image_id": "3001",
+      "id": "42",
+      "caption": "There is a big black fish among the corals"
+    },
+    {
+      "image_id": "2977",
+      "id": "43",
+      "caption": "Two black fishes playing among the corals"
+    },
+    {
+      "image_id": "2882",
+      "id": "44",
+      "caption": "An eel among the corals"
+    },
+    {
+      "image_id": "2787",
+      "id": "45",
+      "caption": "A goldfish swims over the coral"
+    },
+    {
+      "image_id": "2774",
+      "id": "46",
+      "caption": "There is a small fish on the surface of the reef"
+    },
+    {
+      "image_id": "2701",
+      "id": "47",
+      "caption": "Golden corals are attached to the seabed reefs"
+    },
+    {
+      "image_id": "2677",
+      "id": "48",
+      "caption": "A big fish lying on the blue sea bottom"
+    },
+    {
+      "image_id": "2629",
+      "id": "49",
+      "caption": "An eel weaves among the corals"
+    },
+    {
+      "image_id": "2546",
+      "id": "50",
+      "caption": "The seabed is overgrown with coral reefs"
+    },
+    {
+      "image_id": "1957",
+      "id": "51",
+      "caption": "There is a black fish under the coral reef"
+    },
+    {
+      "image_id": "1742",
+      "id": "52",
+      "caption": "A black fish swims over the right side of the small rock on the seabed"
+    },
+    {
+      "image_id": "1660",
+      "id": "53",
+      "caption": "There are two black fishes on the bottom of the sea"
+    },
+    {
+      "image_id": "1573",
+      "id": "54",
+      "caption": "Above the coral, there are two platinum fish walking towards each other"
+    },
+    {
+      "image_id": "1539",
+      "id": "55",
+      "caption": "Coral seabed"
+    },
+    {
+      "image_id": "1491",
+      "id": "56",
+      "caption": "Schools of fish shuttle among the coral reefs"
+    },
+    {
+      "image_id": "1407",
+      "id": "57",
+      "caption": "There is a coral reef under the sea"
+    },
+    {
+      "image_id": "1225",
+      "id": "58",
+      "caption": "There is a big turtle in the coral colony"
+    },
+    {
+      "image_id": "676",
+      "id": "59",
+      "caption": "A turtle and a man are swimming in the sea"
+    },
+    {
+      "image_id": "677",
+      "id": "60",
+      "caption": "A blue fish is swimming in the sea"
+    },
+    {
+      "image_id": "678",
+      "id": "61",
+      "caption": "There is a school of yellow fish swimming in the sea"
+    },
+    {
+      "image_id": "679",
+      "id": "62",
+      "caption": "Beneath the rounded rock lies a pair of coral reefs"
+    },
+    {
+      "image_id": "680",
+      "id": "63",
+      "caption": "A white fish swims in the sea"
+    },
+    {
+      "image_id": "681",
+      "id": "64",
+      "caption": "A colorful fish swims in the sea"
+    },
+    {
+      "image_id": "682",
+      "id": "65",
+      "caption": "A colorful fish swims in the sea"
+    },
+    {
+      "image_id": "683",
+      "id": "66",
+      "caption": "A school of yellow and white fish swimming in the sea"
+    },
+    {
+      "image_id": "684",
+      "id": "67",
+      "caption": "There is a huge rock in the sea"
+    },
+    {
+      "image_id": "685",
+      "id": "68",
+      "caption": "A school of blue and green fish swimming in the sea"
+    },
+    {
+      "image_id": "686",
+      "id": "69",
+      "caption": "A fish feeds on a coral reef"
+    },
+    {
+      "image_id": "687",
+      "id": "70",
+      "caption": "A rope was floating in the sea"
+    },
+    {
+      "image_id": "688",
+      "id": "71",
+      "caption": "A school of green fish swimming in the sea"
+    },
+    {
+      "image_id": "689",
+      "id": "72",
+      "caption": "There are many stones in the sea"
+    },
+    {
+      "image_id": "690",
+      "id": "73",
+      "caption": "There are many things like branches in the sea"
+    },
+    {
+      "image_id": "691",
+      "id": "74",
+      "caption": "On the rock grew a huge anemone"
+    },
+    {
+      "image_id": "692",
+      "id": "75",
+      "caption": "A woman diver swims in the sea"
+    },
+    {
+      "image_id": "694",
+      "id": "76",
+      "caption": "Three divers were swimming in the sea"
+    },
+    {
+      "image_id": "695",
+      "id": "77",
+      "caption": "A school of fish swims in the sea"
+    },
+    {
+      "image_id": "696",
+      "id": "78",
+      "caption": "A diver swims in the sea"
+    },
+    {
+      "image_id": "697",
+      "id": "79",
+      "caption": "Two divers were swimming in the sea"
+    },
+    {
+      "image_id": "698",
+      "id": "80",
+      "caption": "A shark swims in the sea"
+    },
+    {
+      "image_id": "699",
+      "id": "81",
+      "caption": "A shark swims in the sea"
+    },
+    {
+      "image_id": "700",
+      "id": "82",
+      "caption": "A strange - shaped fish swims in the sea"
+    },
+    {
+      "image_id": "701",
+      "id": "83",
+      "caption": "Two divers were swimming in the sea"
+    },
+    {
+      "image_id": "702",
+      "id": "84",
+      "caption": "A diver was sitting in the sea"
+    },
+    {
+      "image_id": "703",
+      "id": "85",
+      "caption": "A diver swims in the sea"
+    },
+    {
+      "image_id": "704",
+      "id": "86",
+      "caption": "A diver swims in the sea"
+    },
+    {
+      "image_id": "705",
+      "id": "87",
+      "caption": "There is a huge wreck in the sea"
+    },
+    {
+      "image_id": "706",
+      "id": "88",
+      "caption": "Two divers were swimming in the sea"
+    },
+    {
+      "image_id": "707",
+      "id": "89",
+      "caption": "Three divers were swimming in the sea"
+    },
+    {
+      "image_id": "708",
+      "id": "90",
+      "caption": "There is a huge rock"
+    },
+    {
+      "image_id": "709",
+      "id": "91",
+      "caption": "Some black and white fish swim in the sea"
+    },
+    {
+      "image_id": "710",
+      "id": "92",
+      "caption": "Anemones grow on the reef"
+    },
+    {
+      "image_id": "711",
+      "id": "93",
+      "caption": "There is a huge wreck in the sea"
+    }
+  ],
+
+  "images": [
+    {
+      "image_id": "12433",
+      "id": "1",
+      "caption": "Six sharks swimming on the bottom of the sea"
+    },
+    {
+      "image_id": "12445",
+      "id": "2",
+      "caption": "A group of sharks resting on the bottom of the sea"
+    },
+    {
+      "image_id": "12900",
+      "id": "3",
+      "caption": "A grey shark is swimming"
+    },
+    {
+      "image_id": "15001",
+      "id": "4",
+      "caption": "Diver's hand holding wooden stick"
+    },
+    {
+      "image_id": "15003",
+      "id": "5",
+      "caption": "The diver installs the camera underwater"
+    },
+    {
+      "image_id": "15045",
+      "id": "6",
+      "caption": "A probe rod detects underwater"
+    },
+    {
+      "image_id": "15094",
+      "id": "7",
+      "caption": "The detection instrument rests on the reef"
+    },
+    {
+      "image_id": "15113",
+      "id": "8",
+      "caption": "Diver is fishing"
+    },
+    {
+      "image_id": "15136",
+      "id": "9",
+      "caption": "Caught a shrimp in a blue gloved hand"
+    },
+    {
+      "image_id": "15418",
+      "id": "10",
+      "caption": "The diver found a turtle at the bottom of the water"
+    },
+    {
+      "image_id": "15426",
+      "id": "11",
+      "caption": "Holding a white object in a black gloved hand"
+    },
+    {
+      "image_id": "15544",
+      "id": "12",
+      "caption": "The diver found a dollar under the water"
+    },
+    {
+      "image_id": "15704",
+      "id": "13",
+      "caption": "The diver is holding the probe to explore the seabed"
+    },
+    {
+      "image_id": "929",
+      "id": "14",
+      "caption": "Two divers under the sea"
+    },
+    {
+      "image_id": "928",
+      "id": "15",
+      "caption": "A man is diving"
+    },
+    {
+      "image_id": "8288",
+      "id": "16",
+      "caption": "There is a diver under the sea"
+    },
+    {
+      "image_id": "8262",
+      "id": "17",
+      "caption": "There are divers under the sea"
+    },
+    {
+      "image_id": "8056",
+      "id": "18",
+      "caption": "Top view of the surface of the seabed"
+    },
+    {
+      "image_id": "8046",
+      "id": "19",
+      "caption": "There are divers under the sea"
+    },
+    {
+      "image_id": "8010",
+      "id": "20",
+      "caption": "There are two divers on the right side of the coral reef"
+    },
+    {
+      "image_id": "7916",
+      "id": "21",
+      "caption": "A group of divers playing on the bottom of the sea"
+    },
+    {
+      "image_id": "7654",
+      "id": "22",
+      "caption": "There is a whitebait beside the coral"
+    },
+    {
+      "image_id": "7643",
+      "id": "23",
+      "caption": "A diver kneeling on the bottom of the sea"
+    },
+    {
+      "image_id": "7027",
+      "id": "24",
+      "caption": "A diver on the bottom of the sea swims towards the front"
+    },
+    {
+      "image_id": "6872",
+      "id": "25",
+      "caption": "There is a diver under the sea"
+    },
+    {
+      "image_id": "6820",
+      "id": "26",
+      "caption": "There is a group of divers under the sea"
+    },
+    {
+      "image_id": "6788",
+      "id": "27",
+      "caption": "The seabed is overgrown with coral reefs"
+    },
+    {
+      "image_id": "6082",
+      "id": "28",
+      "caption": "A diver stands on his knees on the bottom of the sea"
+    },
+    {
+      "image_id": "6062",
+      "id": "29",
+      "caption": "There is a diver behind the yellow bag"
+    },
+    {
+      "image_id": "5830",
+      "id": "30",
+      "caption": "A male diver exploring the sea bottom"
+    },
+    {
+      "image_id": "5818",
+      "id": "31",
+      "caption": "There are two divers under the sea"
+    },
+    {
+      "image_id": "5554",
+      "id": "32",
+      "caption": "A diver posing on the bottom of the sea"
+    },
+    {
+      "image_id": "4070",
+      "id": "33",
+      "caption": "There is a group of sharks under the sea"
+    },
+    {
+      "image_id": "3947",
+      "id": "34",
+      "caption": "A diver among a group of sharks"
+    },
+    {
+      "image_id": "3925",
+      "id": "35",
+      "caption": "There is a group of sharks under the sea"
+    },
+    {
+      "image_id": "3728",
+      "id": "36",
+      "caption": "There is an octopus on the coral reef"
+    },
+    {
+      "image_id": "3650",
+      "id": "37",
+      "caption": "There are a few octopus fish above the seabed reef"
+    },
+    {
+      "image_id": "3330",
+      "id": "38",
+      "caption": "A group of small fish shuttles between the coral reefs"
+    },
+    {
+      "image_id": "3202",
+      "id": "39",
+      "caption": "A group of small black and white fish swim over the coral bushes"
+    },
+    {
+      "image_id": "3196",
+      "id": "40",
+      "caption": "There is a school of small fish among the corals"
+    },
+    {
+      "image_id": "3015",
+      "id": "41",
+      "caption": "There is a pile of coral reefs under the sea"
+    },
+    {
+      "image_id": "3001",
+      "id": "42",
+      "caption": "There is a big black fish among the corals"
+    },
+    {
+      "image_id": "2977",
+      "id": "43",
+      "caption": "Two black fishes playing among the corals"
+    },
+    {
+      "image_id": "2882",
+      "id": "44",
+      "caption": "An eel among the corals"
+    },
+    {
+      "image_id": "2787",
+      "id": "45",
+      "caption": "A goldfish swims over the coral"
+    },
+    {
+      "image_id": "2774",
+      "id": "46",
+      "caption": "There is a small fish on the surface of the reef"
+    },
+    {
+      "image_id": "2701",
+      "id": "47",
+      "caption": "Golden corals are attached to the seabed reefs"
+    },
+    {
+      "image_id": "2677",
+      "id": "48",
+      "caption": "A big fish lying on the blue sea bottom"
+    },
+    {
+      "image_id": "2629",
+      "id": "49",
+      "caption": "An eel weaves among the corals"
+    },
+    {
+      "image_id": "2546",
+      "id": "50",
+      "caption": "The seabed is overgrown with coral reefs"
+    },
+    {
+      "image_id": "1957",
+      "id": "51",
+      "caption": "There is a black fish under the coral reef"
+    },
+    {
+      "image_id": "1742",
+      "id": "52",
+      "caption": "A black fish swims over the right side of the small rock on the seabed"
+    },
+    {
+      "image_id": "1660",
+      "id": "53",
+      "caption": "There are two black fishes on the bottom of the sea"
+    },
+    {
+      "image_id": "1573",
+      "id": "54",
+      "caption": "Above the coral, there are two platinum fish walking towards each other"
+    },
+    {
+      "image_id": "1539",
+      "id": "55",
+      "caption": "Coral seabed"
+    },
+    {
+      "image_id": "1491",
+      "id": "56",
+      "caption": "Schools of fish shuttle among the coral reefs"
+    },
+    {
+      "image_id": "1407",
+      "id": "57",
+      "caption": "There is a coral reef under the sea"
+    },
+    {
+      "image_id": "1225",
+      "id": "58",
+      "caption": "There is a big turtle in the coral colony"
+    },
+    {
+      "image_id": "676",
+      "id": "59",
+      "caption": "A turtle and a man are swimming in the sea"
+    },
+    {
+      "image_id": "677",
+      "id": "60",
+      "caption": "A blue fish is swimming in the sea"
+    },
+    {
+      "image_id": "678",
+      "id": "61",
+      "caption": "There is a school of yellow fish swimming in the sea"
+    },
+    {
+      "image_id": "679",
+      "id": "62",
+      "caption": "Beneath the rounded rock lies a pair of coral reefs"
+    },
+    {
+      "image_id": "680",
+      "id": "63",
+      "caption": "A white fish swims in the sea"
+    },
+    {
+      "image_id": "681",
+      "id": "64",
+      "caption": "A colorful fish swims in the sea"
+    },
+    {
+      "image_id": "682",
+      "id": "65",
+      "caption": "A colorful fish swims in the sea"
+    },
+    {
+      "image_id": "683",
+      "id": "66",
+      "caption": "A school of yellow and white fish swimming in the sea"
+    },
+    {
+      "image_id": "684",
+      "id": "67",
+      "caption": "There is a huge rock in the sea"
+    },
+    {
+      "image_id": "685",
+      "id": "68",
+      "caption": "A school of blue and green fish swimming in the sea"
+    },
+    {
+      "image_id": "686",
+      "id": "69",
+      "caption": "A fish feeds on a coral reef"
+    },
+    {
+      "image_id": "687",
+      "id": "70",
+      "caption": "A rope was floating in the sea"
+    },
+    {
+      "image_id": "688",
+      "id": "71",
+      "caption": "A school of green fish swimming in the sea"
+    },
+    {
+      "image_id": "689",
+      "id": "72",
+      "caption": "There are many stones in the sea"
+    },
+    {
+      "image_id": "690",
+      "id": "73",
+      "caption": "There are many things like branches in the sea"
+    },
+    {
+      "image_id": "691",
+      "id": "74",
+      "caption": "On the rock grew a huge anemone"
+    },
+    {
+      "image_id": "692",
+      "id": "75",
+      "caption": "A woman diver swims in the sea"
+    },
+    {
+      "image_id": "694",
+      "id": "76",
+      "caption": "Three divers were swimming in the sea"
+    },
+    {
+      "image_id": "695",
+      "id": "77",
+      "caption": "A school of fish swims in the sea"
+    },
+    {
+      "image_id": "696",
+      "id": "78",
+      "caption": "A diver swims in the sea"
+    },
+    {
+      "image_id": "697",
+      "id": "79",
+      "caption": "Two divers were swimming in the sea"
+    },
+    {
+      "image_id": "698",
+      "id": "80",
+      "caption": "A shark swims in the sea"
+    },
+    {
+      "image_id": "699",
+      "id": "81",
+      "caption": "A shark swims in the sea"
+    },
+    {
+      "image_id": "700",
+      "id": "82",
+      "caption": "A strange - shaped fish swims in the sea"
+    },
+    {
+      "image_id": "701",
+      "id": "83",
+      "caption": "Two divers were swimming in the sea"
+    },
+    {
+      "image_id": "702",
+      "id": "84",
+      "caption": "A diver was sitting in the sea"
+    },
+    {
+      "image_id": "703",
+      "id": "85",
+      "caption": "A diver swims in the sea"
+    },
+    {
+      "image_id": "704",
+      "id": "86",
+      "caption": "A diver swims in the sea"
+    },
+    {
+      "image_id": "705",
+      "id": "87",
+      "caption": "There is a huge wreck in the sea"
+    },
+    {
+      "image_id": "706",
+      "id": "88",
+      "caption": "Two divers were swimming in the sea"
+    },
+    {
+      "image_id": "707",
+      "id": "89",
+      "caption": "Three divers were swimming in the sea"
+    },
+    {
+      "image_id": "708",
+      "id": "90",
+      "caption": "There is a huge rock"
+    },
+    {
+      "image_id": "709",
+      "id": "91",
+      "caption": "Some black and white fish swim in the sea"
+    },
+    {
+      "image_id": "710",
+      "id": "92",
+      "caption": "Anemones grow on the reef"
+    },
+    {
+      "image_id": "711",
+      "id": "93",
+      "caption": "There is a huge wreck in the sea"
+    }
+  ]
+}

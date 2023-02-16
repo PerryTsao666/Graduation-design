@@ -1,0 +1,107 @@
+{
+  "annotations": [
+    {
+      "image_id": "266",
+      "id": "1",
+      "caption": "The bottom is covered with coral reefs"
+    },
+    {
+      "image_id": "267",
+      "id": "2",
+      "caption": "Three fish are swimming in the sea"
+    },
+    {
+      "image_id": "268",
+      "id": "3",
+      "caption": "Three divers in the sea"
+    },
+    {
+      "image_id": "270",
+      "id": "4",
+      "caption": "There are many stones sleeping on the bottom of the sea"
+    },
+    {
+      "image_id": "271",
+      "id": "5",
+      "caption": "There are two stones on the bottom of the sea"
+    },
+    {
+      "image_id": "272",
+      "id": "6",
+      "caption": "There are several stones at the bottom of the water"
+    },
+    {
+      "image_id": "273",
+      "id": "7",
+      "caption": "There are several stones at the bottom of the water"
+    },
+    {
+      "image_id": "274",
+      "id": "8",
+      "caption": "A diver floats in the water"
+    },
+    {
+      "image_id": "275",
+      "id": "9",
+      "caption": "The bottom is covered with coral reefs"
+    },
+    {
+      "image_id": "276",
+      "id": "10",
+      "caption": "There are many stones sleeping on the bottom of the sea"
+    }
+  ],
+
+  "images": [
+    {
+      "image_id": "266",
+      "id": "1",
+      "caption": "The bottom is covered with coral reefs"
+    },
+    {
+      "image_id": "267",
+      "id": "2",
+      "caption": "Three fish are swimming in the sea"
+    },
+    {
+      "image_id": "268",
+      "id": "3",
+      "caption": "Three divers in the sea"
+    },
+    {
+      "image_id": "270",
+      "id": "4",
+      "caption": "There are many stones sleeping on the bottom of the sea"
+    },
+    {
+      "image_id": "271",
+      "id": "5",
+      "caption": "There are two stones on the bottom of the sea"
+    },
+    {
+      "image_id": "272",
+      "id": "6",
+      "caption": "There are several stones at the bottom of the water"
+    },
+    {
+      "image_id": "273",
+      "id": "7",
+      "caption": "There are several stones at the bottom of the water"
+    },
+    {
+      "image_id": "274",
+      "id": "8",
+      "caption": "A diver floats in the water"
+    },
+    {
+      "image_id": "275",
+      "id": "9",
+      "caption": "The bottom is covered with coral reefs"
+    },
+    {
+      "image_id": "276",
+      "id": "10",
+      "caption": "There are many stones sleeping on the bottom of the sea"
+    }
+  ]
+}
